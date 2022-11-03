@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    /* background-color: rgba(0, 0, 0, 0.366);; */
+    font-family: sans-serif;
+    
+}
+#content{
+    border: 1px solid black;
+    background-attachment: fixed;
+    /* background-color: rgba(0, 0, 0, 0.599); */
+    background-image: url("../IMG/para\ img.jpg"); 
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+#text1{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    padding: 20px;
+    letter-spacing: 15px;
+    text-align: center;
+    border: 1 px solid black;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+   
+}
+#sec1{
+    text-align: center;
+    padding: 30px;
+    word-spacing: 10px;
+    line-height:30px;
+    color: rgba(0, 0, 0, 0.386);
+}
+#secimg2{
+    background-image: url("../IMG/paraimage2.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#content2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    letter-spacing: 15px;
+    padding-top: 20%;
+}
+#sec2{
+    text-align: center;
+    padding: 30px;
+    word-spacing: 10px;
+    line-height:30px;
+    background-color: #282e34;
+    color: white;
+}
+#secimg3{
+    background-image: url("../IMG/paraimage3.jpg");
+    height: 700px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#content3{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    letter-spacing: 15px;
+    padding-top: 20%;
+}
+#content4{
+    border: 1px solid black;
+    background-attachment: fixed;
+    /* background-color: rgba(0, 0, 0, 0.599); */
+    background-image: url("../IMG/para\ img.jpg");
+    height: 750px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 100% 100%;
+}
+#text2{
+    position: relative;
+    top: 50%;
+    padding: 20px;
+    letter-spacing: 15px;
+    text-align: center;
+    border: 1 px solid black;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
